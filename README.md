@@ -1,2 +1,2 @@
 # TeamStats
-Javascript syntax part ii Codecademy Back-end-Engineering Track
+Javascript syntax part(Objects) ii Codecademy Back-end-Engineering Track
